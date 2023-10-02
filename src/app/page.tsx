@@ -6,8 +6,8 @@ import { VidePokemon } from '@/components/VideoPokemon'
 import { Metadata } from 'next'
  
 export const metadata: Metadata = {
-  title: 'Toolz.me | PokeAPI',
-  description: 'Toolz.me | PokeAPI',
+  title: 'Toolzz.me | PokeAPI',
+  description: 'Toolzz.me | PokeAPI',
 }
 
 export default function Home() {

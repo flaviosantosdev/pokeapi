@@ -29,7 +29,7 @@ export function Header(){
             w="64"
             color="yellow.300"
             >
-            Toolzme.Poke  
+            Toolzzme.Poke  
            
             </Text>  
          </Link>   
